@@ -1,0 +1,127 @@
+/* CSS Document */
+@font-face{
+	src:url(../Font/Chiq_Reduced_Regular.ttf);
+		font-family: custom font1
+}
+body{
+	font-family: custom font1;
+}
+.nav :hover{
+	color: rgba(182,144,103,1.00);
+}
+.container{
+	font-family: custom font1;
+}
+.nav ul li a{
+	color: #131010;
+	text-decoration: none;
+	box-sizing: border-box;
+	padding: 14px 20px;
+	object-fit: cover;
+}
+.box{
+	height: 300px;
+	background: grey;
+}
+.logo{
+	overflow: hidden;
+}
+.logo img{
+	width: 100%;
+}
+.nav ul{
+	display: flex;
+	justify-content: flex-end;
+	list-style: none;
+}
+.nav ul li{
+	margin: 0 24px;
+	box-sizing: border-box;
+	padding-top: 30px;
+	text-decoration: none;
+}
+.banner img{
+	width: 1200px;
+}
+.body1{
+	background: gray;
+	width: 12000px;
+	height: 300px;
+}.box{
+	width: 100vw;
+	height: 200px;
+	background: rgba(182,144,103,1.00);
+	display: flex;
+	align-items: center;
+	position: absolute;
+}
+p{
+	font-family: custom font1;
+	font-weight: bolder;
+	font-size: 80px;
+	box-sizing: border-box;
+	padding: 0px 625px ;
+	text-align: center;
+}
+.box2{
+	width: 1300px;
+	height: 200px;
+}
+.box3{
+	width: 100vw;
+	height: 200px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: aliceblue;
+	text-align: center;
+}
+.button{
+	width: 150px;
+	height: 70px;
+	background: rgba(182,144,103,1.00);
+	align-items: center;
+	border-radius: 15px;
+	text-align: center;
+}
+.button strong{
+	justify-content: center;
+	flex-wrap: wrap;
+	flex-direction: column;
+	align-content: center;
+	color: aliceblue;
+}
+.box3 :hover{
+	background: grey;
+	color: black;
+}
+.video1{
+	box-sizing: border-box;
+	padding: 0 0 0 80px;
+}
+.body2{
+	display: flex;
+	justify-content: center;
+}
+.box4{ 
+	width: 800px;
+	height: 635px;
+	display: flex;
+	justify-content: flex-end;
+}
+.text{
+	height: 100%;
+	width: 650px;
+	font-size: 20px;
+	box-sizing: border-box;
+	padding: 100px 100px;
+}
+b {
+	font-size: 120px;
+}
+.endmain img{
+	align-items: center;
+	box-sizing: border-box;
+	padding-left: 400px;
+}
+
